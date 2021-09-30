@@ -1,1 +1,1 @@
-# javascriping
+# javascripting
